@@ -1,6 +1,6 @@
 # Assortment of C++ Executables
 
-## Trianle
+## Triangle
 Basic program to print an assortment of triangles in various layouts with
 various borders.
 
